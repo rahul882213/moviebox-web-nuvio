@@ -1,4 +1,6 @@
 {
+  "name": "MovieBox Web",
+  "version": "0.1.0",
   "providers": [
     {
       "id": "moviebox-web",
