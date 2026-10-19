@@ -1,0 +1,23 @@
+{
+  "id": "moviebox-web",
+  "name": "MovieBox Web (Prototype)",
+  "description": "Experimental Nuvio provider adapted from Vega MovieBox Web. Not yet verified.",
+  "version": "0.1.0",
+  "author": "Local conversion",
+  "supportedTypes": [
+    "movie",
+    "tv"
+  ],
+  "filename": "providers/moviebox-web.js",
+  "enabled": true,
+  "contentLanguage": [
+    "en"
+  ],
+  "formats": [
+    "mp4",
+    "m3u8",
+    "mpd"
+  ],
+  "limited": true,
+  "supportsExternalPlayer": true
+}
