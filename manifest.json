@@ -1,7 +1,7 @@
 {
   "name": "MovieBox Web Repository",
   "version": "1.0.0",
-  "providers": [
+  "scrapers": [
     {
       "id": "moviebox-web",
       "name": "MovieBox Web",
