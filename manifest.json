@@ -1,16 +1,18 @@
-[
-  {
-    "id": "moviebox-web",
-    "name": "MovieBox Web",
-    "description": "Experimental MovieBox Web provider for Nuvio",
-    "version": "0.1.0",
-    "author": "rahul882213",
-    "supportedTypes": ["movie", "tv"],
-    "filename": "providers/moviebox-web.js",
-    "enabled": true,
-    "contentLanguage": ["en"],
-    "formats": ["mp4", "m3u8", "mpd"],
-    "limited": true,
-    "supportsExternalPlayer": true
-  }
-]
+{
+  "providers": [
+    {
+      "id": "moviebox-web",
+      "name": "MovieBox Web",
+      "description": "Experimental MovieBox Web provider for Nuvio",
+      "version": "0.1.0",
+      "author": "rahul882213",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/moviebox-web.js",
+      "enabled": true,
+      "contentLanguage": ["en"],
+      "formats": ["mp4", "m3u8", "mpd"],
+      "limited": true,
+      "supportsExternalPlayer": true
+    }
+  ]
+}
